@@ -17,7 +17,7 @@ namespace temperature_remaster
         public static void FahrenheitConverter()
         {
             methodLib.valueInput();
-            Fahrenhiet.ConverterValues();
+            Fahrenheit.ConverterValues();
 
         }
 
