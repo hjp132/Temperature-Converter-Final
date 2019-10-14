@@ -8,6 +8,8 @@ namespace temperature_remaster
         public static double userInput;
         public static void Menu()
         {
+           
+        
             Console.WriteLine("\n/-/ Temperature Converter\n");
 
 
@@ -15,7 +17,8 @@ namespace temperature_remaster
                                             {
                                                 {1,"Fahrenhiet"},
                                                 {2,"Celsius"},
-                                                {3,"Kelvin"}
+                                                {3,"Kelvin"},
+                                                {4,"Quit"}
                                             };
 
             foreach (KeyValuePair<int, string> item in dict)
@@ -23,7 +26,7 @@ namespace temperature_remaster
                 Console.WriteLine("Key: {0}, Type: {1}", item.Key, item.Value);
             }
 
-            userInput = methodLib.GetUserInputByte("Please choose an item to convert\n");
+            userInput = MethodLib.GetUserInputByte("Please choose an item to convert\n");
 
             do
             {
@@ -46,9 +49,12 @@ namespace temperature_remaster
                         break;
 
                     case 4:
-                        methodLib.Quit();
+                        MethodLib.Quit();
                         break;
                 }
+                
+                Console.ReadKey();
+                menu.Menu();
                 
 
             } while (userInput != 4);

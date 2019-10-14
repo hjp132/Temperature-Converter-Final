@@ -5,13 +5,13 @@ namespace temperature_remaster
     class Program
     {
         public static double fahrenheit, kelvin, celsius;
-        static void Main(string[] args)
+        static void Main()
         {
             menu.Menu();
         }
     }
 
-    public class methodLib
+    public class MethodLib
     {
         public static int GetUserInputByte(string message)
 		{
@@ -30,5 +30,8 @@ namespace temperature_remaster
 			// takes the pre-existing userInput as well as the GetuserInputByte, as this line is used at multiple points I decided to make a method for it
 			menu.userInput = GetUserInputByte("\nPlease enter a value to convert:\n");
 		}
+
+
+
     }
 }

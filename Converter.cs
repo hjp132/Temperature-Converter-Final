@@ -9,21 +9,21 @@ namespace temperature_remaster
         
         public static void CelsiusConverter()
         {
-            methodLib.valueInput();
+            MethodLib.valueInput();
             Celsius.ConverterValues();
             
         }
 
         public static void FahrenheitConverter()
         {
-            methodLib.valueInput();
+            MethodLib.valueInput();
             Fahrenheit.ConverterValues();
 
         }
 
         public static void KelvinConverter()
         {
-            methodLib.valueInput();
+            MethodLib.valueInput();
             Kelvin.ConverterValues();
         }
 
