@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Finl\\Temperature-Converter-Finl.csproj",
+      "projectUniqueName": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Final\\Temperature-Converter-Finl.csproj",
       "projectName": "Temperature-Converter-Finl",
-      "projectPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Finl\\Temperature-Converter-Finl.csproj",
+      "projectPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Final\\Temperature-Converter-Finl.csproj",
       "packagesPath": "C:\\Users\\PalmerH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Finl\\obj\\",
+      "outputPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Temperature-Converter-Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

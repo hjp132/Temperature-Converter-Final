@@ -14,12 +14,12 @@ namespace temperature_remaster
 
 
             Dictionary<int, string> dict = new Dictionary<int, string>()
-                                            {
-                                                {1,"Fahrenhiet"},
-                                                {2,"Celsius"},
-                                                {3,"Kelvin"},
-                                                {4,"Quit"}
-                                            };
+            {
+                {1,"Fahrenhiet"},
+                {2,"Celsius"},
+                {3,"Kelvin"},
+                {4,"Quit"}
+            };
 
             foreach (KeyValuePair<int, string> item in dict)
             {
@@ -34,23 +34,19 @@ namespace temperature_remaster
                 {
                     case 1:
                         Converter.FahrenheitConverter();
-                    
-
                         break;
-                    
                     case 2:
                         Converter.CelsiusConverter();
-
                         break;
-
                     case 3:
                         Converter.KelvinConverter();
-
                         break;
-
                     case 4:
                         MethodLib.Quit();
                         break;
+                    default:
+                        break;
+
                 }
                 
                 Console.ReadKey();

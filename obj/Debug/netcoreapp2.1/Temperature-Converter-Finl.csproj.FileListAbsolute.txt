@@ -9,3 +9,14 @@ C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Finl\
 C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Finl\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.AssemblyInfo.cs
 C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Finl\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.dll
 C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Finl\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.pdb
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\bin\Debug\netcoreapp2.1\Temperature-Converter-Finl.deps.json
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\bin\Debug\netcoreapp2.1\Temperature-Converter-Finl.runtimeconfig.json
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\bin\Debug\netcoreapp2.1\Temperature-Converter-Finl.runtimeconfig.dev.json
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\bin\Debug\netcoreapp2.1\Temperature-Converter-Finl.dll
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\bin\Debug\netcoreapp2.1\Temperature-Converter-Finl.pdb
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.csprojAssemblyReference.cache
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.csproj.CoreCompileInputs.cache
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.AssemblyInfoInputs.cache
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.AssemblyInfo.cs
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.dll
+C:\Users\PalmerH\Documents\coursework\Unit 1\Stage 2\Temperature-Converter-Final\obj\Debug\netcoreapp2.1\Temperature-Converter-Finl.pdb
