@@ -4,6 +4,7 @@ namespace temperature_remaster
 {
     class Program
     {
+        //solve
         public static double fahrenheit, kelvin, celsius;
         static void Main()
         {
